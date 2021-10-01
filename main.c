@@ -11,6 +11,7 @@ int main()
   printf("\nx=%d",x<<4);
 
   printf("\n%x",&x);
+  printf("updating");
 
     return 0;
 }
